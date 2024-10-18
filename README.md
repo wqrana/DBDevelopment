@@ -8,7 +8,7 @@ This repo maintains the db scripts of the different projects as follow:
 4- MSA Admin Cloud
 <br>
 DB Scripts indlude following objects:<br>
-=Tables and triggers
+-Tables and triggers
 -Views
 -db functions
 -db procedures
